@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Steve 👋
 
-<!--
-**smorin/smorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Born in New York City, living in San Francisco**
 
-Here are some ideas to get you started:
+I’ve worked at **Yahoo!**, **AT&T**, **Instagram**, and **Asana**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m also a former founder of **Nvent** and **Permuto**.
+
+## Background
+
+- 🗽 Born in New York City
+- 🌉 Based in San Francisco
+- 🏢 Formerly: Yahoo!, AT&T, Instagram, Asana
+- 🚀 Former Founder: Nvent, Permuto
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/-smorin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/smorin)
