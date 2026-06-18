@@ -40,7 +40,7 @@ Working with **Ron Efroni** on the future of agentic infrastructure — reproduc
 
 ## Current Projects
 
-- 🦉 **[thoth](https://github.com/smorin/thoth)** — AI-powered research assistant; CLI that runs deep technical research across OpenAI and Perplexity in parallel and ships clean, citable reports
+- 🦉 **[Doxa Research](https://github.com/smorin/doxa-research/)** — AI-powered research assistant; CLI that runs deep technical research across OpenAI and Perplexity in parallel and ships clean, citable reports
 - 🌀 **[thothspinner](https://github.com/smorin/thothspinner)** — Claude Code-inspired TUI animation library for Python (Rich-based): spinners, progress bars, timers, shimmer effects
 - 📝 **[envgen](https://github.com/smorinlabs/envgen)** — Generate and validate `.env` files from a single spec; self-documenting, consistent across environments, secrets stay out of git
 - 📐 **[agent2linear](https://github.com/smorin/agent2linear)** — Linear CLI built for humans *and* AI agents; optimized to minimize token usage and context-window waste
