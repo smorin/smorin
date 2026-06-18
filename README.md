@@ -50,6 +50,11 @@ Working with **Ron Efroni** on the future of agentic infrastructure — reproduc
 - 🌱 **[filegardener](https://github.com/smorin/filegardener)** — File maintenance utilities: dedup, only-copy detection, prune empty dirs
 - 🪨 **[substrata](https://github.com/smorinlabs/substrata)** — Foundational tooling layer (WIP)
 - 📦 **[vagrant-flow](https://github.com/smorin/vagrant-flow)** — Vagrant plugin for a seamless dev-to-prod workflow with Ansible; auto-generates inventory files, runs playbooks, manages hostfiles
+- 🤖 **[claude-fusion-launcher](https://github.com/smorinlabs/claude-fusion-launcher)** — Run Claude Code on a panel of models instead of one; OpenRouter Fusion answers in parallel and a judge model merges them into one stronger answer
+- 🙌 **[contributors-please](https://github.com/smorinlabs/contributors-please)** — Incremental, path-aware contributor recognition; generates `CONTRIBUTORS.md` without clobbering maintainer edits (npm CLI + reusable engine)
+- ⚙️ **[contributors-please-action](https://github.com/smorinlabs/contributors-please-action)** — GitHub Action wrapper for `contributors-please`; discovers contributors from commits + the GitHub API and renders contributor markdown on every push
+- 🏭 **[template-press](https://github.com/smorinlabs/template-press)** — Reusable init / post-init engine extracted from py-launch-blueprint for scaffolding new projects
+- 🎬 **[mockcast](https://github.com/smorinlabs/mockcast)** — Vaporware demos as code: render scripted terminal sessions to asciicast v3 (and GIF via agg)
 
 ## What I'm Building at Flox
 
