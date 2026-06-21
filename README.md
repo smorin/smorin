@@ -63,6 +63,13 @@ Working with **Ron Efroni** on the future of agentic infrastructure — reproduc
 - 🤖 **Codex-plugin-shaped long-running agent** — broker / job-tracking architecture inspired by the OpenAI Codex plugin for Claude Code
 - 🚀 **AI transformation** — helping transform culture to be AI First: pair programming show-and-tells, tooling standardization (Anthropic + OpenAI), shipping real features, producing artifacts to train the rest of the org
 
+## Contributions to Other Projects
+
+- 🃏 **[agent-deck](https://github.com/asheshgoplani/agent-deck)** — terminal session manager (TUI) for AI coding agents; one cockpit for Claude, Gemini, Codex, OpenCode, and more, with session forking and MCP management
+- 🖥️ **[cmux](https://github.com/manaflow-ai/cmux)** — Ghostty-based native macOS terminal with vertical tabs and agent-aware notifications, built for AI coding agents
+- 🔤 **[baml](https://github.com/boundaryml/baml)** — "the AI framework that adds the engineering to prompt engineering"; a typed language for LLM prompts, callable from Python, TypeScript, Go, and more
+- 🙋 **[humanlayer](https://github.com/humanlayer/humanlayer)** — human-in-the-loop framework for getting AI coding agents to solve hard problems in complex codebases
+
 ## Speaking
 
 - 🎤 **GitHub Universe 2026 — *Secure every commit* track**
