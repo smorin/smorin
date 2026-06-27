@@ -80,8 +80,9 @@ Working with **Ron Efroni** on the future of agentic infrastructure — reproduc
 
 - 🛫 **CTO, [Tripping.com](https://hometogo.com)** (acquired by HomeToGo)
 - 📸 **Engineering Leadership, [Instagram](https://instagram.com)**
-- ✅ **Engineering Leadership, [Asana](https://asana.com)**
-- 📞 **Engineering, AT&T**
+- ✅ **Engineering Leadership & Head of Mobile, [Asana](https://asana.com)**
+- 📈 **Chief Product Officer, Sociocast**
+- 📞 **Engineering Director, AT&T**
 
 ## GitHub Activity
 
