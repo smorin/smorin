@@ -35,26 +35,38 @@ Working with **Ron Efroni** on the future of agentic infrastructure — reproduc
 
 - 🌱 **[Flox](https://flox.dev)** — reproducible dev environments built on Nix, the AI-transformation layer for your build loop
 - 🎤 **[GitHub Universe 2026](https://githubuniverse.com)** — two panels on agentic infrastructure (see *Speaking* below)
-- 🦉 **[thoth](https://github.com/smorin/thoth)** — multi-provider deep-research CLI; orchestrates OpenAI Deep Research + Perplexity in parallel
+- 🦉 **[Doxa Research](https://github.com/smorinlabs/doxa-research)** — multi-provider deep-research CLI; orchestrates OpenAI Deep Research + Perplexity in parallel and ships clean, citable reports
 - 📺 **[TikTok / @stevemorinnyc](https://www.tiktok.com/@stevemorinnyc)** — making AI concepts make sense for people who don't have time to read papers
 
 ## Current Projects
 
-- 🦉 **[Doxa Research](https://github.com/smorin/doxa-research/)** — AI-powered research assistant; CLI that runs deep technical research across OpenAI and Perplexity in parallel and ships clean, citable reports
+- 🦉 **[Doxa Research](https://github.com/smorinlabs/doxa-research)** — AI-powered research assistant; CLI that runs deep technical research across OpenAI and Perplexity in parallel and ships clean, citable reports
 - 🌀 **[thothspinner](https://github.com/smorin/thothspinner)** — Claude Code-inspired TUI animation library for Python (Rich-based): spinners, progress bars, timers, shimmer effects
 - 📝 **[envgen](https://github.com/smorinlabs/envgen)** — Generate and validate `.env` files from a single spec; self-documenting, consistent across environments, secrets stay out of git
-- 📐 **[agent2linear](https://github.com/smorin/agent2linear)** — Linear CLI built for humans *and* AI agents; optimized to minimize token usage and context-window waste
+- 📐 **[agent2linear](https://github.com/smorinlabs/agent2linear)** — Linear CLI built for humans *and* AI agents; optimized to minimize token usage and context-window waste
 - 🔀 **[toggle](https://github.com/smorin/toggle)** — Rust CLI + library for toggling, adding, removing, and updating code/comments across many languages, with configurable extension mappings
 - 🌳 **[worktreeflow](https://github.com/smorinlabs/worktreeflow)** — CLI for spinning up git worktrees against OSS projects and managing PRs without losing your mind
 - 🐍 **[py-launch-blueprint](https://github.com/smorinlabs/py-launch-blueprint)** — Production-ready Python project template with the best practices already wired in
 - 🌱 **[filegardener](https://github.com/smorin/filegardener)** — File maintenance utilities: dedup, only-copy detection, prune empty dirs
 - 🪨 **[substrata](https://github.com/smorinlabs/substrata)** — Foundational tooling layer (WIP)
 - 📦 **[vagrant-flow](https://github.com/smorin/vagrant-flow)** — Vagrant plugin for a seamless dev-to-prod workflow with Ansible; auto-generates inventory files, runs playbooks, manages hostfiles
-- 🤖 **[claude-fusion-launcher](https://github.com/smorinlabs/claude-fusion-launcher)** — Run Claude Code on a panel of models instead of one; OpenRouter Fusion answers in parallel and a judge model merges them into one stronger answer
+- 🤖 **[claude-openrouter-launcher](https://github.com/smorinlabs/claude-openrouter-launcher)** — Run Claude Code on a panel of models instead of one; OpenRouter Fusion answers in parallel and a judge model merges them into one stronger answer
 - 🙌 **[contributors-please](https://github.com/smorinlabs/contributors-please)** — Incremental, path-aware contributor recognition; generates `CONTRIBUTORS.md` without clobbering maintainer edits (npm CLI + reusable engine)
 - ⚙️ **[contributors-please-action](https://github.com/smorinlabs/contributors-please-action)** — GitHub Action wrapper for `contributors-please`; discovers contributors from commits + the GitHub API and renders contributor markdown on every push
 - 🏭 **[template-press](https://github.com/smorinlabs/template-press)** — Reusable init / post-init engine extracted from py-launch-blueprint for scaffolding new projects
 - 🎬 **[mockcast](https://github.com/smorinlabs/mockcast)** — Vaporware demos as code: render scripted terminal sessions to asciicast v3 (and GIF via agg)
+- 🔌 **[smorinlabs-harness](https://github.com/smorinlabs/smorinlabs-harness)** — Public cross-platform (Claude Code + Codex) plugin marketplace for smorinlabs
+- 📋 **[harness-kit](https://github.com/smorinlabs/harness-kit)** — Shared anti-drift manifest generator for harness-style plugin marketplaces (Claude Code + Codex)
+- 📘 **[ts-launch-blueprint](https://github.com/smorinlabs/ts-launch-blueprint)** — TypeScript port of py-launch-blueprint (scaffolding in progress)
+- 🦀 **[rs-launch-blueprint](https://github.com/smorinlabs/rs-launch-blueprint)** — Rust sibling of the launch-blueprint templates: CLI + library + web service template (research phase)
+- 🍴 **[agent-fork](https://github.com/smorinlabs/agent-fork)** — Fork a running coding-agent session: new branch + worktree carrying the current file state, plus the exact command to continue (Claude Code, Codex)
+- 🌲 **[difftree](https://github.com/smorinlabs/difftree)** — Visualize git changes as a tree — modified, new, or untracked files at a glance (Rust)
+- 🌳 **[difftree-action](https://github.com/smorinlabs/difftree-action)** — GitHub Action for difftree: fast, minimalist, git-aware directory tree viewer
+- 📏 **[cli-standards](https://github.com/smorinlabs/cli-standards)** — Specs and conventions for building consistent CLIs — arguments, env vars, color, output
+- 🌐 **[rest-standards](https://github.com/smorinlabs/rest-standards)** — Specs and conventions for building consistent HTTP/REST APIs — resources, semantics, contracts, security
+- 🍎 **[ios-mac-skills](https://github.com/smorinlabs/ios-mac-skills)** — Agent skills, Apple documentation tooling, and workflows for iOS and Mac development
+- 🍺 **[homebrew-tap](https://github.com/smorinlabs/homebrew-tap)** — Homebrew tap for smorinlabs CLI tools
+- 💭 **[thoughts](https://github.com/smorin/thoughts)** — Developer notes CLI: keeps project thoughts in a central repo separate from code, auto-synced via git hooks and searchable by AI assistants
 
 ## What I'm Building at Flox
 
