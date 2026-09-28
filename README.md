@@ -55,7 +55,7 @@ Working with **Ron Efroni** on the future of agentic infrastructure — reproduc
 - ⚙️ **[contributors-please-action](https://github.com/smorinlabs/contributors-please-action)** — GitHub Action wrapper for `contributors-please`; discovers contributors from commits + the GitHub API and renders contributor markdown on every push
 - 🏭 **[template-press](https://github.com/smorinlabs/template-press)** — Reusable init / post-init engine extracted from py-launch-blueprint for scaffolding new projects
 - 🎬 **[mockcast](https://github.com/smorinlabs/mockcast)** — Vaporware demos as code: render scripted terminal sessions to asciicast v3 (and GIF via agg)
-- 🔌 **[smorinlabs-harness](https://github.com/smorinlabs/smorinlabs-harness)** — Public cross-platform (Claude Code + Codex) plugin marketplace for smorinlabs
+- 🔌 **[smorinlabs-skills](https://github.com/smorinlabs/smorinlabs-skills)** — Public cross-platform (Claude Code + Codex) plugin marketplace for smorinlabs
 - 📋 **[harness-kit](https://github.com/smorinlabs/harness-kit)** — Shared anti-drift manifest generator for harness-style plugin marketplaces (Claude Code + Codex)
 - 📘 **[ts-launch-blueprint](https://github.com/smorinlabs/ts-launch-blueprint)** — TypeScript port of py-launch-blueprint (scaffolding in progress)
 - 🦀 **[rs-launch-blueprint](https://github.com/smorinlabs/rs-launch-blueprint)** — Rust sibling of the launch-blueprint templates: CLI + library + web service template (research phase)
